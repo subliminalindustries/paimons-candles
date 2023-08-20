@@ -1,0 +1,27 @@
+.map-container {
+  background-color: #202020;
+  border-color: #505050;
+  border-style: solid;
+  border-width: 2px;
+  color: wheat;
+  display: block;
+  float: left;
+  height: 60vh;
+  margin-left: 25px;
+  text-align: center;
+  width: 73%;
+}
+
+.antenna-popup {
+  display: flex; 
+  flex-direction: column;
+}
+
+.antenna-popup > a {
+  display: flex; 
+  flex-direction: row;
+}
+
+.antenna-popup > a > span {
+  font-weight: bold;
+}

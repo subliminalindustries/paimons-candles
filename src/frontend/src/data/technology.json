@@ -1,0 +1,6036 @@
+{
+	"5g": [
+		{
+			"id": 172,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 722000000,
+			"band": {
+				"id": 107,
+				"band_id": 28,
+				"identifier": "n28",
+				"alias": "700 APT",
+				"description": "NR Band 28 - 700 APT"
+			},
+			"description": "Band 28 - 722 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 185,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 758000000,
+			"band": {
+				"id": 107,
+				"band_id": 28,
+				"identifier": "n28",
+				"alias": "700 APT",
+				"description": "NR Band 28 - 700 APT"
+			},
+			"description": "Band 28 - 758 MHz (T-Mobile)",
+			"color": "#A65400"
+		},
+		{
+			"id": 222,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 773000000,
+			"band": {
+				"id": 107,
+				"band_id": 28,
+				"identifier": "n28",
+				"alias": "700 APT",
+				"description": "NR Band 28 - 700 APT"
+			},
+			"description": "Band 28 - 773 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 221,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 783000000,
+			"band": {
+				"id": 107,
+				"band_id": 28,
+				"identifier": "n28",
+				"alias": "700 APT",
+				"description": "NR Band 28 - 700 APT"
+			},
+			"description": "Band 28 - 783 MHz (T-Mobile)",
+			"color": "#A65400"
+		},
+		{
+			"id": 217,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 1835000000,
+			"band": {
+				"id": 100,
+				"band_id": 3,
+				"identifier": "n3",
+				"alias": "1800",
+				"description": "NR Band 3 - 1800"
+			},
+			"description": "Band 3 - 1835 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 225,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 2132300000,
+			"band": {
+				"id": 98,
+				"band_id": 1,
+				"identifier": "n1",
+				"alias": "2100",
+				"description": "NR Band 1 - 2100"
+			},
+			"description": "Band 1 - 2132.3 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 224,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 2160000000,
+			"band": {
+				"id": 98,
+				"band_id": 1,
+				"identifier": "n1",
+				"alias": "2100",
+				"description": "NR Band 1 - 2100"
+			},
+			"description": "Band 1 - 2160 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 245,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 2162500000,
+			"band": {
+				"id": 98,
+				"band_id": 1,
+				"identifier": "n1",
+				"alias": "2100",
+				"description": "NR Band 1 - 2100"
+			},
+			"description": "Band 1 - 2162.5 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 173,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 2300000000,
+			"band": {
+				"id": 111,
+				"band_id": 40,
+				"identifier": "n40",
+				"alias": "TD 2300",
+				"description": "NR Band 40 - TD 2300"
+			},
+			"description": "Band 40 - 2300 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 181,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 3410000000,
+			"band": {
+				"id": 122,
+				"band_id": 78,
+				"identifier": "n78",
+				"alias": "TD 3500",
+				"description": "NR Band 78 - TD 3500"
+			},
+			"description": "Band 78 - 3410 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 175,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 3500000000,
+			"band": {
+				"id": 122,
+				"band_id": 78,
+				"identifier": "n78",
+				"alias": "TD 3500",
+				"description": "NR Band 78 - TD 3500"
+			},
+			"description": "Band 78 - 3500 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 186,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 3650000000,
+			"band": {
+				"id": 122,
+				"band_id": 78,
+				"identifier": "n78",
+				"alias": "TD 3500",
+				"description": "NR Band 78 - TD 3500"
+			},
+			"description": "Band 78 - 3650 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 174,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 3655000000,
+			"band": {
+				"id": 122,
+				"band_id": 78,
+				"identifier": "n78",
+				"alias": "TD 3500",
+				"description": "NR Band 78 - TD 3500"
+			},
+			"description": "Band 78 - 3655 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 180,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 3700000000,
+			"band": {
+				"id": 122,
+				"band_id": 78,
+				"identifier": "n78",
+				"alias": "TD 3500",
+				"description": "NR Band 78 - TD 3500"
+			},
+			"description": "Band 78 - 3700 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 183,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 26500000000,
+			"band": {
+				"id": 131,
+				"band_id": 258,
+				"identifier": "n258",
+				"alias": "26 GHz",
+				"description": "NR Band 258 - 26 GHz"
+			},
+			"description": "Band 258 - 26.5 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 176,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "NR",
+				"slug": "nr",
+				"channel_identifier": "NR-ARFCN"
+			},
+			"freq_dl_mid": 26600000000,
+			"band": {
+				"id": 131,
+				"band_id": 258,
+				"identifier": "n258",
+				"alias": "26 GHz",
+				"description": "NR Band 258 - 26 GHz"
+			},
+			"description": "Band 258 - 26.6 GHz (T-Mobile)",
+			"color": null
+		}
+	],
+	"4g": [
+		{
+			"id": 241,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 763000000,
+			"band": {
+				"id": 55,
+				"band_id": 28,
+				"identifier": "b28",
+				"alias": "700 APT",
+				"description": "LTE Band 28 - 700 APT"
+			},
+			"description": "Band 28 - 763 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 1451,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 763000000,
+			"band": {
+				"id": 55,
+				"band_id": 28,
+				"identifier": "b28",
+				"alias": "700 APT",
+				"description": "LTE Band 28 - 700 APT"
+			},
+			"description": "Band 28 - 763 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 1452,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 773000000,
+			"band": {
+				"id": 55,
+				"band_id": 28,
+				"identifier": "b28",
+				"alias": "700 APT",
+				"description": "LTE Band 28 - 700 APT"
+			},
+			"description": "Band 28 - 773 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 220,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 796000000,
+			"band": {
+				"id": 47,
+				"band_id": 20,
+				"identifier": "b20",
+				"alias": "800 DD",
+				"description": "LTE Band 20 - 800 DD"
+			},
+			"description": "Band 20 - 796 MHz (T-Mobile)",
+			"color": "#E00000"
+		},
+		{
+			"id": 168,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 796000000,
+			"band": {
+				"id": 47,
+				"band_id": 20,
+				"identifier": "b20",
+				"alias": "800 DD",
+				"description": "LTE Band 20 - 800 DD"
+			},
+			"description": "Band 20 - 796 MHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 160,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 806000000,
+			"band": {
+				"id": 47,
+				"band_id": 20,
+				"identifier": "b20",
+				"alias": "800 DD",
+				"description": "LTE Band 20 - 800 DD"
+			},
+			"description": "Band 20 - 806 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 155,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 816000000,
+			"band": {
+				"id": 47,
+				"band_id": 20,
+				"identifier": "b20",
+				"alias": "800 DD",
+				"description": "LTE Band 20 - 800 DD"
+			},
+			"description": "Band 20 - 816 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 250,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 816000000,
+			"band": {
+				"id": 47,
+				"band_id": 20,
+				"identifier": "b20",
+				"alias": "800 DD",
+				"description": "LTE Band 20 - 800 DD"
+			},
+			"description": "Band 20 - 816 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 1534,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 940000000,
+			"band": {
+				"id": 37,
+				"band_id": 8,
+				"identifier": "b8",
+				"alias": "900 GSM",
+				"description": "LTE Band 8 - 900 GSM"
+			},
+			"description": "Band 8 - 940 MHz (KPN)",
+			"color": "#000000"
+		},
+		{
+			"id": 150,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 950000000,
+			"band": {
+				"id": 37,
+				"band_id": 8,
+				"identifier": "b8",
+				"alias": "900 GSM",
+				"description": "LTE Band 8 - 900 GSM"
+			},
+			"description": "Band 8 - 950 MHz (T-Mobile)",
+			"color": "#E0D800"
+		},
+		{
+			"id": 239,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1459500000,
+			"band": {
+				"id": 59,
+				"band_id": 32,
+				"identifier": "b32",
+				"alias": "1500 L-band",
+				"description": "LTE Band 32 - 1500 L-band"
+			},
+			"description": "Band 32 - 1459.5 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 238,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1474500000,
+			"band": {
+				"id": 59,
+				"band_id": 32,
+				"identifier": "b32",
+				"alias": "1500 L-band",
+				"description": "LTE Band 32 - 1500 L-band"
+			},
+			"description": "Band 32 - 1474.5 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 240,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1487000000,
+			"band": {
+				"id": 59,
+				"band_id": 32,
+				"identifier": "b32",
+				"alias": "1500 L-band",
+				"description": "LTE Band 32 - 1500 L-band"
+			},
+			"description": "Band 32 - 1487 MHz (T-Mobile)",
+			"color": "#861AFF"
+		},
+		{
+			"id": 251,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1812500000,
+			"band": {
+				"id": 32,
+				"band_id": 3,
+				"identifier": "b3",
+				"alias": "1800+",
+				"description": "LTE Band 3 - 1800+"
+			},
+			"description": "Band 3 - 1812.5 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 156,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1815000000,
+			"band": {
+				"id": 32,
+				"band_id": 3,
+				"identifier": "b3",
+				"alias": "1800+",
+				"description": "LTE Band 3 - 1800+"
+			},
+			"description": "Band 3 - 1815 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 161,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1835000000,
+			"band": {
+				"id": 32,
+				"band_id": 3,
+				"identifier": "b3",
+				"alias": "1800+",
+				"description": "LTE Band 3 - 1800+"
+			},
+			"description": "Band 3 - 1835 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 215,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1850000000,
+			"band": {
+				"id": 32,
+				"band_id": 3,
+				"identifier": "b3",
+				"alias": "1800+",
+				"description": "LTE Band 3 - 1800+"
+			},
+			"description": "Band 3 - 1850 MHz (T-Mobile)",
+			"color": "#00C300"
+		},
+		{
+			"id": 151,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1860000000,
+			"band": {
+				"id": 32,
+				"band_id": 3,
+				"identifier": "b3",
+				"alias": "1800+",
+				"description": "LTE Band 3 - 1800+"
+			},
+			"description": "Band 3 - 1860 MHz (T-Mobile)",
+			"color": "#00C300"
+		},
+		{
+			"id": 188,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 1865000000,
+			"band": {
+				"id": 32,
+				"band_id": 3,
+				"identifier": "b3",
+				"alias": "1800+",
+				"description": "LTE Band 3 - 1800+"
+			},
+			"description": "Band 3 - 1865 MHz (T-Mobile)",
+			"color": "#00C300"
+		},
+		{
+			"id": 162,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2115000000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2115 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 216,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2117000000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2117 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 242,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2117500000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2117.5 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 244,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2120000000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2120 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 189,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2132300000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2132.3 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 158,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2134700000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2134.7 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 248,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2137500000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2137.5 MHz (T-Mobile)",
+			"color": "#0076FF"
+		},
+		{
+			"id": 152,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2144700000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2144.7 MHz (T-Mobile)",
+			"color": "#0076FF"
+		},
+		{
+			"id": 1460,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2160000000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2160 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 247,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2162500000,
+			"band": {
+				"id": 30,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "LTE Band 1 - 2100"
+			},
+			"description": "Band 1 - 2162.5 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 153,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2580000000,
+			"band": {
+				"id": 65,
+				"band_id": 38,
+				"identifier": "b38",
+				"alias": "TD 2600",
+				"description": "LTE Band 38 - TD 2600"
+			},
+			"description": "Band 38 - 2580 MHz (T-Mobile)",
+			"color": "#FF9D00"
+		},
+		{
+			"id": 159,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2605000000,
+			"band": {
+				"id": 65,
+				"band_id": 38,
+				"identifier": "b38",
+				"alias": "TD 2600",
+				"description": "LTE Band 38 - TD 2600"
+			},
+			"description": "Band 38 - 2605 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 166,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2625000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2625 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 163,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2630000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2630 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 165,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2640000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2640 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 164,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2644000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2644 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 243,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2644400000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2644.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 167,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2645000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2645 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 154,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2652000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2652 MHz (T-Mobile)",
+			"color": "#FFA400"
+		},
+		{
+			"id": 252,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2660000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2660 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 157,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2660000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2660 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 261,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2672500000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2672.5 MHz (T-Mobile)",
+			"color": "#FFA400"
+		},
+		{
+			"id": 169,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2675000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2675 MHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 228,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "LTE",
+				"slug": "lte",
+				"channel_identifier": "EARFCN"
+			},
+			"freq_dl_mid": 2675000000,
+			"band": {
+				"id": 36,
+				"band_id": 7,
+				"identifier": "b7",
+				"alias": "2600",
+				"description": "LTE Band 7 - 2600"
+			},
+			"description": "Band 7 - 2675 MHz (T-Mobile)",
+			"color": "#FFA400"
+		}
+	],
+	"3g": [
+		{
+			"id": 4,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 942200000,
+			"band": {
+				"id": 8,
+				"band_id": 8,
+				"identifier": "b8",
+				"alias": "900 GSM",
+				"description": "UMTS Band 8 - 900 GSM"
+			},
+			"description": "Band 8 - 942.2 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 957400000,
+			"band": {
+				"id": 8,
+				"band_id": 8,
+				"identifier": "b8",
+				"alias": "900 GSM",
+				"description": "UMTS Band 8 - 900 GSM"
+			},
+			"description": "Band 8 - 957.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 171,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2117600000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2117.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 9,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2122400000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2122.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 5,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2127400000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2127.4 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 6,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2132200000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2132.2 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 7,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2137200000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2137.2 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 262,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2137400000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2137.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 249,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2147400000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2147.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 8,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2152200000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2152.2 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 246,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2152600000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2152.6 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 2,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2162200000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2162.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 3,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "UMTS",
+				"slug": "umts",
+				"channel_identifier": "UARFCN"
+			},
+			"freq_dl_mid": 2167200000,
+			"band": {
+				"id": 1,
+				"band_id": 1,
+				"identifier": "b1",
+				"alias": "2100",
+				"description": "UMTS Band 1 - 2100"
+			},
+			"description": "Band 1 - 2167.2 MHz (T-Mobile)",
+			"color": null
+		}
+	],
+	"2g": [
+		{
+			"id": 137,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 925000000,
+			"band": null,
+			"description": "925 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 94,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 925200000,
+			"band": null,
+			"description": "925.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 111,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 925400000,
+			"band": null,
+			"description": "925.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 97,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 925600000,
+			"band": null,
+			"description": "925.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 107,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 925800000,
+			"band": null,
+			"description": "925.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 115,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 926000000,
+			"band": null,
+			"description": "926 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 104,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 926200000,
+			"band": null,
+			"description": "926.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 132,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 926400000,
+			"band": null,
+			"description": "926.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 109,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 926600000,
+			"band": null,
+			"description": "926.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 117,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 926800000,
+			"band": null,
+			"description": "926.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 101,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 927000000,
+			"band": null,
+			"description": "927 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 112,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 927200000,
+			"band": null,
+			"description": "927.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 106,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 927400000,
+			"band": null,
+			"description": "927.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 126,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 927600000,
+			"band": null,
+			"description": "927.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 135,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 927800000,
+			"band": null,
+			"description": "927.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 119,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 928000000,
+			"band": null,
+			"description": "928 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 131,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 928200000,
+			"band": null,
+			"description": "928.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 121,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 928400000,
+			"band": null,
+			"description": "928.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 113,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 928600000,
+			"band": null,
+			"description": "928.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 128,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 928800000,
+			"band": null,
+			"description": "928.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 123,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 929000000,
+			"band": null,
+			"description": "929 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 116,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 929200000,
+			"band": null,
+			"description": "929.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 110,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 929400000,
+			"band": null,
+			"description": "929.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 125,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 929600000,
+			"band": null,
+			"description": "929.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 133,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 929800000,
+			"band": null,
+			"description": "929.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 114,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 930000000,
+			"band": null,
+			"description": "930 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 129,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 930200000,
+			"band": null,
+			"description": "930.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 96,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 930400000,
+			"band": null,
+			"description": "930.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 124,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 930600000,
+			"band": null,
+			"description": "930.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 89,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 930800000,
+			"band": null,
+			"description": "930.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 92,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 931000000,
+			"band": null,
+			"description": "931 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 118,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 931200000,
+			"band": null,
+			"description": "931.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 120,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 931400000,
+			"band": null,
+			"description": "931.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 93,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 931600000,
+			"band": null,
+			"description": "931.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 122,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 931800000,
+			"band": null,
+			"description": "931.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 95,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 932000000,
+			"band": null,
+			"description": "932 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 127,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 932200000,
+			"band": null,
+			"description": "932.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 98,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 932400000,
+			"band": null,
+			"description": "932.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 102,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 932600000,
+			"band": null,
+			"description": "932.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 136,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 932800000,
+			"band": null,
+			"description": "932.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 105,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 933000000,
+			"band": null,
+			"description": "933 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 130,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 933200000,
+			"band": null,
+			"description": "933.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 99,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 933400000,
+			"band": null,
+			"description": "933.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 103,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 933600000,
+			"band": null,
+			"description": "933.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 90,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 933800000,
+			"band": null,
+			"description": "933.8 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 108,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 934000000,
+			"band": null,
+			"description": "934 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 100,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 934200000,
+			"band": null,
+			"description": "934.2 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 91,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 934400000,
+			"band": null,
+			"description": "934.4 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 134,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 934600000,
+			"band": null,
+			"description": "934.6 MHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 88,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 935200000,
+			"band": null,
+			"description": "935.2 MHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 81,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 945200000,
+			"band": null,
+			"description": "945.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 265,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 946000000,
+			"band": null,
+			"description": "946 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 80,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 946200000,
+			"band": null,
+			"description": "946.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 86,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 946400000,
+			"band": null,
+			"description": "946.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 85,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 947200000,
+			"band": null,
+			"description": "947.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 87,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 947800000,
+			"band": null,
+			"description": "947.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 214,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 948600000,
+			"band": null,
+			"description": "948.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 84,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 949200000,
+			"band": null,
+			"description": "949.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 82,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 951200000,
+			"band": null,
+			"description": "951.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1424,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 952600000,
+			"band": null,
+			"description": "952.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1429,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 952800000,
+			"band": null,
+			"description": "952.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1425,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 953000000,
+			"band": null,
+			"description": "953 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1427,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 953200000,
+			"band": null,
+			"description": "953.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1428,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 953400000,
+			"band": null,
+			"description": "953.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1426,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 953600000,
+			"band": null,
+			"description": "953.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 266,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 953800000,
+			"band": null,
+			"description": "953.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 263,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 954000000,
+			"band": null,
+			"description": "954 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 264,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 954200000,
+			"band": null,
+			"description": "954.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 268,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 954400000,
+			"band": null,
+			"description": "954.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 83,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 954600000,
+			"band": null,
+			"description": "954.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 267,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 954800000,
+			"band": null,
+			"description": "954.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 269,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 955000000,
+			"band": null,
+			"description": "955 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 193,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 955200000,
+			"band": null,
+			"description": "955.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 191,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 955400000,
+			"band": null,
+			"description": "955.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 197,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 955600000,
+			"band": null,
+			"description": "955.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 192,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 955800000,
+			"band": null,
+			"description": "955.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 203,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 956000000,
+			"band": null,
+			"description": "956 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 212,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 956200000,
+			"band": null,
+			"description": "956.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 208,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 956400000,
+			"band": null,
+			"description": "956.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 207,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 956600000,
+			"band": null,
+			"description": "956.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 202,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 956800000,
+			"band": null,
+			"description": "956.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 210,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 957000000,
+			"band": null,
+			"description": "957 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 199,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 957200000,
+			"band": null,
+			"description": "957.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 209,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 957400000,
+			"band": null,
+			"description": "957.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 204,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 957600000,
+			"band": null,
+			"description": "957.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 206,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 957800000,
+			"band": null,
+			"description": "957.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 211,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 958000000,
+			"band": null,
+			"description": "958 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 195,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 958200000,
+			"band": null,
+			"description": "958.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 205,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 958400000,
+			"band": null,
+			"description": "958.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 194,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 958600000,
+			"band": null,
+			"description": "958.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 196,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 958800000,
+			"band": null,
+			"description": "958.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 198,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 959000000,
+			"band": null,
+			"description": "959 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 201,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 959200000,
+			"band": null,
+			"description": "959.2 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 190,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 959400000,
+			"band": null,
+			"description": "959.4 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 213,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 959600000,
+			"band": null,
+			"description": "959.6 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 200,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 959800000,
+			"band": null,
+			"description": "959.8 MHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 258,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 1823600000,
+			"band": null,
+			"description": "1823.6 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 259,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 1823800000,
+			"band": null,
+			"description": "1823.8 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 256,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 1824000000,
+			"band": null,
+			"description": "1824 MHz (Tampnet)",
+			"color": null
+		},
+		{
+			"id": 257,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"radio_technology": {
+				"name": "GSM",
+				"slug": "gsm",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 1824200000,
+			"band": null,
+			"description": "1824.2 MHz (Tampnet)",
+			"color": null
+		}
+	],
+	"gsm-r": [
+		{
+			"id": 16,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 921200000,
+			"band": null,
+			"description": "921.2 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 17,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 921400000,
+			"band": null,
+			"description": "921.4 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 24,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 921600000,
+			"band": null,
+			"description": "921.6 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 13,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 921800000,
+			"band": null,
+			"description": "921.8 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 23,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 922000000,
+			"band": null,
+			"description": "922 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 19,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 922200000,
+			"band": null,
+			"description": "922.2 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 18,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 922400000,
+			"band": null,
+			"description": "922.4 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 31,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 922600000,
+			"band": null,
+			"description": "922.6 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 27,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 922800000,
+			"band": null,
+			"description": "922.8 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 15,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 923000000,
+			"band": null,
+			"description": "923 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 22,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 923200000,
+			"band": null,
+			"description": "923.2 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 20,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 923400000,
+			"band": null,
+			"description": "923.4 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 30,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 923600000,
+			"band": null,
+			"description": "923.6 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 21,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 923800000,
+			"band": null,
+			"description": "923.8 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 25,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 924000000,
+			"band": null,
+			"description": "924 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 29,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 924200000,
+			"band": null,
+			"description": "924.2 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 26,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 924400000,
+			"band": null,
+			"description": "924.4 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 28,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 924600000,
+			"band": null,
+			"description": "924.6 MHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 14,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "GSM-R",
+				"slug": "gsm-r",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 924800000,
+			"band": null,
+			"description": "924.8 MHz (ProRail)",
+			"color": null
+		}
+	],
+	"cdma": [
+		{
+			"id": 11,
+			"provider": {
+				"name": "Utility Connect",
+				"slug": "utilityconnect",
+				"mcc": 204,
+				"mnc": 66,
+				"color": "#00FFFF"
+			},
+			"radio_technology": {
+				"name": "CDMA",
+				"slug": "cdma",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 462650000,
+			"band": {
+				"id": 145,
+				"band_id": 11,
+				"identifier": null,
+				"alias": "400 MHz PAMR",
+				"description": "CDMA Band 11 - 400 MHz PAMR"
+			},
+			"description": "Band 11 - 462.65 MHz (Utility Connect)",
+			"color": null
+		},
+		{
+			"id": 12,
+			"provider": {
+				"name": "Utility Connect",
+				"slug": "utilityconnect",
+				"mcc": 204,
+				"mnc": 66,
+				"color": "#00FFFF"
+			},
+			"radio_technology": {
+				"name": "CDMA",
+				"slug": "cdma",
+				"channel_identifier": "ARFCN"
+			},
+			"freq_dl_mid": 463900000,
+			"band": {
+				"id": 145,
+				"band_id": 11,
+				"identifier": null,
+				"alias": "400 MHz PAMR",
+				"description": "CDMA Band 11 - 400 MHz PAMR"
+			},
+			"description": "Band 11 - 463.9 MHz (Utility Connect)",
+			"color": null
+		}
+	],
+	"cgc": [
+		{
+			"name": "EAN",
+			"slug": "european-aviation-network",
+			"mcc": 901,
+			"mnc": 53,
+			"color": "#0000FF"
+		}
+	],
+	"fixed-wireless": [
+		{
+			"id": 1232,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12765000000,
+			"band": null,
+			"description": "12.765 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1338,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12765000000,
+			"band": null,
+			"description": "12.765 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 466,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12779000000,
+			"band": null,
+			"description": "12.779 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 420,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12779000000,
+			"band": null,
+			"description": "12.779 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1203,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12793000000,
+			"band": null,
+			"description": "12.793 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1058,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12793000000,
+			"band": null,
+			"description": "12.793 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 690,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12807000000,
+			"band": null,
+			"description": "12.807 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1467,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12807000000,
+			"band": null,
+			"description": "12.807 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 995,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12807000000,
+			"band": null,
+			"description": "12.807 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1309,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12821000000,
+			"band": null,
+			"description": "12.821 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1179,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12821000000,
+			"band": null,
+			"description": "12.821 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1053,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12835000000,
+			"band": null,
+			"description": "12.835 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1255,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12835000000,
+			"band": null,
+			"description": "12.835 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 700,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12849000000,
+			"band": null,
+			"description": "12.849 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 929,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12863000000,
+			"band": null,
+			"description": "12.863 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1415,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12877000000,
+			"band": null,
+			"description": "12.877 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1580,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12877000000,
+			"band": null,
+			"description": "12.877 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1473,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12888000000,
+			"band": null,
+			"description": "12.888 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1445,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12891000000,
+			"band": null,
+			"description": "12.891 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1150,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12905000000,
+			"band": null,
+			"description": "12.905 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1523,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12916000000,
+			"band": null,
+			"description": "12.916 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 697,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12919000000,
+			"band": null,
+			"description": "12.919 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1546,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12919000000,
+			"band": null,
+			"description": "12.919 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1385,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12933000000,
+			"band": null,
+			"description": "12.933 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 715,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12947000000,
+			"band": null,
+			"description": "12.947 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1577,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12947000000,
+			"band": null,
+			"description": "12.947 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1155,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12961000000,
+			"band": null,
+			"description": "12.961 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1039,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 12961000000,
+			"band": null,
+			"description": "12.961 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1370,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13031000000,
+			"band": null,
+			"description": "13.031 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1136,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13031000000,
+			"band": null,
+			"description": "13.031 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 456,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13045000000,
+			"band": null,
+			"description": "13.045 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 428,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13045000000,
+			"band": null,
+			"description": "13.045 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1315,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13059000000,
+			"band": null,
+			"description": "13.059 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 860,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13059000000,
+			"band": null,
+			"description": "13.059 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 974,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13073000000,
+			"band": null,
+			"description": "13.073 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 713,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13073000000,
+			"band": null,
+			"description": "13.073 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1468,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13073000000,
+			"band": null,
+			"description": "13.073 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 1050,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13087000000,
+			"band": null,
+			"description": "13.087 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1355,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13087000000,
+			"band": null,
+			"description": "13.087 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 994,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13101000000,
+			"band": null,
+			"description": "13.101 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1316,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13101000000,
+			"band": null,
+			"description": "13.101 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 642,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13115000000,
+			"band": null,
+			"description": "13.115 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 907,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13129000000,
+			"band": null,
+			"description": "13.129 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1579,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13143000000,
+			"band": null,
+			"description": "13.143 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1416,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13143000000,
+			"band": null,
+			"description": "13.143 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1474,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13154000000,
+			"band": null,
+			"description": "13.154 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1446,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13157000000,
+			"band": null,
+			"description": "13.157 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1015,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13171000000,
+			"band": null,
+			"description": "13.171 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1522,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13182000000,
+			"band": null,
+			"description": "13.182 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1328,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13185000000,
+			"band": null,
+			"description": "13.185 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1545,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13185000000,
+			"band": null,
+			"description": "13.185 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1393,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13199000000,
+			"band": null,
+			"description": "13.199 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1388,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13213000000,
+			"band": null,
+			"description": "13.213 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1578,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13213000000,
+			"band": null,
+			"description": "13.213 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 711,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13227000000,
+			"band": null,
+			"description": "13.227 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1010,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 13227000000,
+			"band": null,
+			"description": "13.227 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1080,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14512000000,
+			"band": null,
+			"description": "14.512 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1184,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14513000000,
+			"band": null,
+			"description": "14.513 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1178,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14543000000,
+			"band": null,
+			"description": "14.543 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1116,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14543000000,
+			"band": null,
+			"description": "14.543 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 623,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14543000000,
+			"band": null,
+			"description": "14.543 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 703,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14571000000,
+			"band": null,
+			"description": "14.571 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1444,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14571000000,
+			"band": null,
+			"description": "14.571 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 903,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14599000000,
+			"band": null,
+			"description": "14.599 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1361,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 14599000000,
+			"band": null,
+			"description": "14.599 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1322,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15240000000,
+			"band": null,
+			"description": "15.24 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1357,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15241000000,
+			"band": null,
+			"description": "15.241 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 705,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15271000000,
+			"band": null,
+			"description": "15.271 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1177,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15271000000,
+			"band": null,
+			"description": "15.271 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1007,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15271000000,
+			"band": null,
+			"description": "15.271 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 698,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15299000000,
+			"band": null,
+			"description": "15.299 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 1443,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15299000000,
+			"band": null,
+			"description": "15.299 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 931,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15327000000,
+			"band": null,
+			"description": "15.327 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 975,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 15327000000,
+			"band": null,
+			"description": "15.327 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 712,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17728000000,
+			"band": null,
+			"description": "17.728 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1081,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17755000000,
+			"band": null,
+			"description": "17.755 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 499,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17810000000,
+			"band": null,
+			"description": "17.81 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1250,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17838000000,
+			"band": null,
+			"description": "17.838 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 301,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17865000000,
+			"band": null,
+			"description": "17.865 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 487,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17893000000,
+			"band": null,
+			"description": "17.893 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 435,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17920000000,
+			"band": null,
+			"description": "17.92 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 318,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17948000000,
+			"band": null,
+			"description": "17.948 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 643,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17975000000,
+			"band": null,
+			"description": "17.975 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1211,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17995000000,
+			"band": null,
+			"description": "17.995 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1411,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 17995000000,
+			"band": null,
+			"description": "17.995 GHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 977,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18003000000,
+			"band": null,
+			"description": "18.003 GHz (ProRail)",
+			"color": null
+		},
+		{
+			"id": 1291,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18030000000,
+			"band": null,
+			"description": "18.03 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1516,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18030000000,
+			"band": null,
+			"description": "18.03 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 444,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18030000000,
+			"band": null,
+			"description": "18.03 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1548,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18085000000,
+			"band": null,
+			"description": "18.085 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 1065,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18085000000,
+			"band": null,
+			"description": "18.085 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 373,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18085000000,
+			"band": null,
+			"description": "18.085 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 490,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18140000000,
+			"band": null,
+			"description": "18.14 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 319,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18140000000,
+			"band": null,
+			"description": "18.14 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 459,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18168000000,
+			"band": null,
+			"description": "18.168 GHz (Vodafone)",
+			"color": null
+		},
+		{
+			"id": 1528,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18168000000,
+			"band": null,
+			"description": "18.168 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1342,
+			"provider": {
+				"name": "Tele 2",
+				"slug": "tele2",
+				"mcc": 204,
+				"mnc": 2,
+				"color": "#777777"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18195000000,
+			"band": null,
+			"description": "18.195 GHz (Tele 2)",
+			"color": null
+		},
+		{
+			"id": 327,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18195000000,
+			"band": null,
+			"description": "18.195 GHz (T-Mobile)",
+			"color": null
+		},
+		{
+			"id": 1193,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18195000000,
+			"band": null,
+			"description": "18.195 GHz (KPN)",
+			"color": null
+		},
+		{
+			"id": 1530,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"radio_technology": {
+				"name": "Fixed Wireless",
+				"slug": "fixed-wireless",
+				"channel_identifier": ""
+			},
+			"freq_dl_mid": 18236000000,
+			"band": null,
+			"description": "18.236 GHz (KPN)",
+			"color": null
+		}
+	]
+}

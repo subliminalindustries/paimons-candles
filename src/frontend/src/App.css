@@ -1,0 +1,29 @@
+.App-header {
+  font-size: x-large;
+  height: 50px;
+  margin: 15px 0 0 30px;
+  text-align: left;
+}
+
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
+
+.App-organisation {
+  color: aquamarine;
+}
+
+.App-name {
+  color: wheat;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Layout {
+  height: 100%;
+}

@@ -1,0 +1,133 @@
+{
+	"5g": [
+		{
+			"id": 98,
+			"band_id": 1,
+			"identifier": "n1",
+			"alias": "2100",
+			"description": "NR Band 1 - 2100"
+		},
+		{
+			"id": 100,
+			"band_id": 3,
+			"identifier": "n3",
+			"alias": "1800",
+			"description": "NR Band 3 - 1800"
+		},
+		{
+			"id": 107,
+			"band_id": 28,
+			"identifier": "n28",
+			"alias": "700 APT",
+			"description": "NR Band 28 - 700 APT"
+		},
+		{
+			"id": 111,
+			"band_id": 40,
+			"identifier": "n40",
+			"alias": "TD 2300",
+			"description": "NR Band 40 - TD 2300"
+		},
+		{
+			"id": 122,
+			"band_id": 78,
+			"identifier": "n78",
+			"alias": "TD 3500",
+			"description": "NR Band 78 - TD 3500"
+		},
+		{
+			"id": 131,
+			"band_id": 258,
+			"identifier": "n258",
+			"alias": "26 GHz",
+			"description": "NR Band 258 - 26 GHz"
+		}
+	],
+	"4g": [
+		{
+			"id": 30,
+			"band_id": 1,
+			"identifier": "b1",
+			"alias": "2100",
+			"description": "LTE Band 1 - 2100"
+		},
+		{
+			"id": 32,
+			"band_id": 3,
+			"identifier": "b3",
+			"alias": "1800+",
+			"description": "LTE Band 3 - 1800+"
+		},
+		{
+			"id": 36,
+			"band_id": 7,
+			"identifier": "b7",
+			"alias": "2600",
+			"description": "LTE Band 7 - 2600"
+		},
+		{
+			"id": 37,
+			"band_id": 8,
+			"identifier": "b8",
+			"alias": "900 GSM",
+			"description": "LTE Band 8 - 900 GSM"
+		},
+		{
+			"id": 47,
+			"band_id": 20,
+			"identifier": "b20",
+			"alias": "800 DD",
+			"description": "LTE Band 20 - 800 DD"
+		},
+		{
+			"id": 55,
+			"band_id": 28,
+			"identifier": "b28",
+			"alias": "700 APT",
+			"description": "LTE Band 28 - 700 APT"
+		},
+		{
+			"id": 59,
+			"band_id": 32,
+			"identifier": "b32",
+			"alias": "1500 L-band",
+			"description": "LTE Band 32 - 1500 L-band"
+		},
+		{
+			"id": 65,
+			"band_id": 38,
+			"identifier": "b38",
+			"alias": "TD 2600",
+			"description": "LTE Band 38 - TD 2600"
+		}
+	],
+	"3g": [
+		{
+			"id": 1,
+			"band_id": 1,
+			"identifier": "b1",
+			"alias": "2100",
+			"description": "UMTS Band 1 - 2100"
+		},
+		{
+			"id": 8,
+			"band_id": 8,
+			"identifier": "b8",
+			"alias": "900 GSM",
+			"description": "UMTS Band 8 - 900 GSM"
+		}
+	],
+	"2g": [],
+        "gsm-r": [],
+	"cdma": [
+		{
+			"id": 145,
+			"band_id": 11,
+			"identifier": null,
+			"alias": "400 MHz PAMR",
+			"description": "CDMA Band 11 - 400 MHz PAMR"
+		}
+	],
+	"cgc": [],
+        "fixed-wireless": []
+}

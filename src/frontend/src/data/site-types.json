@@ -1,0 +1,110 @@
+[
+	{
+		"id": 9,
+		"name": "Achtbaan"
+	},
+	{
+		"id": 27,
+		"name": "Boom"
+	},
+	{
+		"id": 7,
+		"name": "Buismast"
+	},
+	{
+		"id": 16,
+		"name": "C2000-Mast"
+	},
+	{
+		"id": 20,
+		"name": "Camouflageboom"
+	},
+	{
+		"id": 2,
+		"name": "Daklocatie - Bedrijfsgebouw"
+	},
+	{
+		"id": 18,
+		"name": "Daklocatie - Parkeergarage"
+	},
+	{
+		"id": 3,
+		"name": "Daklocatie - Woongebouw"
+	},
+	{
+		"id": 4,
+		"name": "Hoogspanningsmast"
+	},
+	{
+		"id": 5,
+		"name": "Indoor"
+	},
+	{
+		"id": 6,
+		"name": "Kerk"
+	},
+	{
+		"id": 22,
+		"name": "Lantaarnpaal"
+	},
+	{
+		"id": 25,
+		"name": "Offshore Platform"
+	},
+	{
+		"id": 23,
+		"name": "Portaal"
+	},
+	{
+		"id": 8,
+		"name": "Reclamemast"
+	},
+	{
+		"id": 17,
+		"name": "Schoorsteen"
+	},
+	{
+		"id": 10,
+		"name": "Silo"
+	},
+	{
+		"id": 26,
+		"name": "Small Cell - Outdoor"
+	},
+	{
+		"id": 12,
+		"name": "Televisietoren"
+	},
+	{
+		"id": 13,
+		"name": "Tijdelijke Festivalmast"
+	},
+	{
+		"id": 14,
+		"name": "Tijdelijke Vakwerkmast"
+	},
+	{
+		"id": 11,
+		"name": "Toren"
+	},
+	{
+		"id": 24,
+		"name": "Tunnel"
+	},
+	{
+		"id": 1,
+		"name": "Vakwerkmast"
+	},
+	{
+		"id": 19,
+		"name": "WAS-Alarm"
+	},
+	{
+		"id": 21,
+		"name": "Watertoren"
+	},
+	{
+		"id": 15,
+		"name": "Windmolen"
+	}
+]

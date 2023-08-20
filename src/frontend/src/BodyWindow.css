@@ -1,0 +1,24 @@
+#body-map {
+  background-color: #202020;
+  border-color: #505050;
+  border-style: solid;
+  border-width: 2px;
+  color: wheat;
+  display: block;
+  float: right;
+  height: 60vh;
+  margin-right: 25px;
+  text-align: center;
+  width: 23%;
+}
+
+.hitmap {
+  text-align: center;
+  padding: 10px;
+  height: 95%;
+}
+
+.body-image {
+  height: 100%;
+  width: 100%;
+}

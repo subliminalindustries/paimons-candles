@@ -1,0 +1,4096 @@
+{
+	"2g": [
+		{
+			"id": 182,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 385,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"description": "Tampnet: 1800",
+			"bands": [
+				"1800"
+			]
+		},
+		{
+			"id": 179,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1800",
+			"bands": [
+				"1800"
+			]
+		},
+		{
+			"id": 180,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 181,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1800-900",
+			"bands": [
+				"1800",
+				"900"
+			]
+		},
+		{
+			"id": 183,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 184,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1800",
+			"bands": [
+				"1800"
+			]
+		},
+		{
+			"id": 185,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1800-900",
+			"bands": [
+				"1800",
+				"900"
+			]
+		}
+	],
+	"3g": [
+		{
+			"id": 348,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1",
+			"bands": [
+				"1"
+			]
+		},
+		{
+			"id": 4,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 8",
+			"bands": [
+				"8"
+			]
+		},
+		{
+			"id": 381,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1",
+			"bands": [
+				"1"
+			]
+		},
+		{
+			"id": 402,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1",
+			"bands": [
+				"1"
+			]
+		},
+		{
+			"id": 403,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-8",
+			"bands": [
+				"1",
+				"8"
+			]
+		}
+	],
+	"4g": [
+		{
+			"id": 193,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 20",
+			"bands": [
+				"20"
+			]
+		},
+		{
+			"id": 194,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 3-20",
+			"bands": [
+				"3",
+				"20"
+			]
+		},
+		{
+			"id": 421,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-20-32",
+			"bands": [
+				"1",
+				"3",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 422,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-7-20-32-38",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"20",
+				"32",
+				"38"
+			]
+		},
+		{
+			"id": 423,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-20",
+			"bands": [
+				"1",
+				"3",
+				"20"
+			]
+		},
+		{
+			"id": 424,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-7",
+			"bands": [
+				"1",
+				"3",
+				"7"
+			]
+		},
+		{
+			"id": 426,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1",
+			"bands": [
+				"1"
+			]
+		},
+		{
+			"id": 427,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3",
+			"bands": [
+				"1",
+				"3"
+			]
+		},
+		{
+			"id": 465,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-8-20-32",
+			"bands": [
+				"1",
+				"3",
+				"8",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 466,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-7-8-20-32-38",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"8",
+				"20",
+				"32",
+				"38"
+			]
+		},
+		{
+			"id": 467,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-8-20",
+			"bands": [
+				"1",
+				"3",
+				"8",
+				"20"
+			]
+		},
+		{
+			"id": 468,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-7-8-20-32",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"8",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 470,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1-3-7-8-20-38",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"8",
+				"20",
+				"38"
+			]
+		},
+		{
+			"id": 473,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 8-20",
+			"bands": [
+				"8",
+				"20"
+			]
+		},
+		{
+			"id": 383,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"description": "Tampnet: 3-20",
+			"bands": [
+				"3",
+				"20"
+			]
+		},
+		{
+			"id": 384,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"description": "Tampnet: 3-7-20",
+			"bands": [
+				"3",
+				"7",
+				"20"
+			]
+		},
+		{
+			"id": 413,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"description": "Tampnet: 3-7-20-28-28",
+			"bands": [
+				"3",
+				"7",
+				"20",
+				"28",
+				"28"
+			]
+		},
+		{
+			"id": 414,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"description": "Tampnet: 20",
+			"bands": [
+				"20"
+			]
+		},
+		{
+			"id": 415,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"description": "Tampnet: 3-20-28-28",
+			"bands": [
+				"3",
+				"20",
+				"28",
+				"28"
+			]
+		},
+		{
+			"id": 416,
+			"provider": {
+				"name": "Tampnet",
+				"slug": "tampnet",
+				"mcc": 901,
+				"mnc": 71,
+				"color": "#5741D6"
+			},
+			"description": "Tampnet: 3-7-20-28",
+			"bands": [
+				"3",
+				"7",
+				"20",
+				"28"
+			]
+		},
+		{
+			"id": 188,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3",
+			"bands": [
+				"3"
+			]
+		},
+		{
+			"id": 254,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3",
+			"bands": [
+				"3"
+			]
+		},
+		{
+			"id": 256,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3-8",
+			"bands": [
+				"3",
+				"8"
+			]
+		},
+		{
+			"id": 272,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3-3-8",
+			"bands": [
+				"3",
+				"3",
+				"8"
+			]
+		},
+		{
+			"id": 274,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3-3-38",
+			"bands": [
+				"3",
+				"3",
+				"38"
+			]
+		},
+		{
+			"id": 308,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3-7",
+			"bands": [
+				"3",
+				"7"
+			]
+		},
+		{
+			"id": 309,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3-3",
+			"bands": [
+				"3",
+				"3"
+			]
+		},
+		{
+			"id": 365,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-8-20",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"8",
+				"20"
+			]
+		},
+		{
+			"id": 366,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-8-20-38",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"8",
+				"20",
+				"38"
+			]
+		},
+		{
+			"id": 367,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-8-38",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"8",
+				"38"
+			]
+		},
+		{
+			"id": 368,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-8",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"8"
+			]
+		},
+		{
+			"id": 369,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-8-20-38",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"8",
+				"20",
+				"38"
+			]
+		},
+		{
+			"id": 370,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3",
+			"bands": [
+				"1",
+				"3"
+			]
+		},
+		{
+			"id": 371,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3",
+			"bands": [
+				"1",
+				"3",
+				"3"
+			]
+		},
+		{
+			"id": 372,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-8-20",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"8",
+				"20"
+			]
+		},
+		{
+			"id": 374,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-8",
+			"bands": [
+				"1",
+				"3",
+				"8"
+			]
+		},
+		{
+			"id": 375,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-8",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"8"
+			]
+		},
+		{
+			"id": 376,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-7-8-20-38",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"7",
+				"8",
+				"20",
+				"38"
+			]
+		},
+		{
+			"id": 377,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-8-20",
+			"bands": [
+				"1",
+				"3",
+				"8",
+				"20"
+			]
+		},
+		{
+			"id": 380,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-7-8-20-38",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"8",
+				"20",
+				"38"
+			]
+		},
+		{
+			"id": 394,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7"
+			]
+		},
+		{
+			"id": 395,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-8-20-32-38",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"8",
+				"20",
+				"32",
+				"38"
+			]
+		},
+		{
+			"id": 396,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-8-20-32-38",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"8",
+				"20",
+				"32",
+				"38"
+			]
+		},
+		{
+			"id": 399,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-8-20-32",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"8",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 400,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 7",
+			"bands": [
+				"7"
+			]
+		},
+		{
+			"id": 401,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-8-20-32",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"8",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 411,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-8-20-32",
+			"bands": [
+				"1",
+				"3",
+				"8",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 418,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-8",
+			"bands": [
+				"1",
+				"3",
+				"8"
+			]
+		},
+		{
+			"id": 449,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-20",
+			"bands": [
+				"1",
+				"3",
+				"20"
+			]
+		},
+		{
+			"id": 450,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-7-8-20-32-38",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"7",
+				"8",
+				"20",
+				"32",
+				"38"
+			]
+		},
+		{
+			"id": 480,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3-8-20",
+			"bands": [
+				"3",
+				"8",
+				"20"
+			]
+		},
+		{
+			"id": 481,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1",
+			"bands": [
+				"1"
+			]
+		},
+		{
+			"id": 482,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3",
+			"bands": [
+				"1",
+				"3"
+			]
+		},
+		{
+			"id": 485,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-7",
+			"bands": [
+				"1",
+				"3",
+				"7"
+			]
+		},
+		{
+			"id": 486,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-8-32",
+			"bands": [
+				"1",
+				"3",
+				"8",
+				"32"
+			]
+		},
+		{
+			"id": 492,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-20",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"20"
+			]
+		},
+		{
+			"id": 493,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 3-7",
+			"bands": [
+				"3",
+				"7"
+			]
+		},
+		{
+			"id": 494,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-7-7-8-20-32",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"7",
+				"7",
+				"8",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 495,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-3-20",
+			"bands": [
+				"1",
+				"3",
+				"3",
+				"20"
+			]
+		},
+		{
+			"id": 496,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 1-3-8-38",
+			"bands": [
+				"1",
+				"3",
+				"8",
+				"38"
+			]
+		},
+		{
+			"id": 207,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 20",
+			"bands": [
+				"20"
+			]
+		},
+		{
+			"id": 210,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3-20",
+			"bands": [
+				"3",
+				"20"
+			]
+		},
+		{
+			"id": 211,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3",
+			"bands": [
+				"3"
+			]
+		},
+		{
+			"id": 214,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3-7-7-20",
+			"bands": [
+				"3",
+				"7",
+				"7",
+				"20"
+			]
+		},
+		{
+			"id": 216,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 7-20",
+			"bands": [
+				"7",
+				"20"
+			]
+		},
+		{
+			"id": 217,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3-7",
+			"bands": [
+				"3",
+				"7"
+			]
+		},
+		{
+			"id": 218,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3-7-20",
+			"bands": [
+				"3",
+				"7",
+				"20"
+			]
+		},
+		{
+			"id": 226,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 7",
+			"bands": [
+				"7"
+			]
+		},
+		{
+			"id": 313,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 7-7",
+			"bands": [
+				"7",
+				"7"
+			]
+		},
+		{
+			"id": 334,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-20",
+			"bands": [
+				"1",
+				"3",
+				"20"
+			]
+		},
+		{
+			"id": 335,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-7-7-20",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"7",
+				"20"
+			]
+		},
+		{
+			"id": 336,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3",
+			"bands": [
+				"1",
+				"3"
+			]
+		},
+		{
+			"id": 337,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-20",
+			"bands": [
+				"1",
+				"20"
+			]
+		},
+		{
+			"id": 338,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-7-7",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"7"
+			]
+		},
+		{
+			"id": 339,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-7-7-20-28",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"7",
+				"20",
+				"28"
+			]
+		},
+		{
+			"id": 340,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1",
+			"bands": [
+				"1"
+			]
+		},
+		{
+			"id": 341,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-7-20",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"20"
+			]
+		},
+		{
+			"id": 342,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-20-28-32",
+			"bands": [
+				"1",
+				"3",
+				"20",
+				"28",
+				"32"
+			]
+		},
+		{
+			"id": 343,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-7-7-20-28-32",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"7",
+				"20",
+				"28",
+				"32"
+			]
+		},
+		{
+			"id": 344,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-7",
+			"bands": [
+				"1",
+				"7"
+			]
+		},
+		{
+			"id": 345,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-7",
+			"bands": [
+				"1",
+				"3",
+				"7"
+			]
+		},
+		{
+			"id": 364,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-20-28",
+			"bands": [
+				"1",
+				"3",
+				"20",
+				"28"
+			]
+		},
+		{
+			"id": 391,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3-20-28",
+			"bands": [
+				"3",
+				"20",
+				"28"
+			]
+		},
+		{
+			"id": 392,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3-20-28-32",
+			"bands": [
+				"3",
+				"20",
+				"28",
+				"32"
+			]
+		},
+		{
+			"id": 405,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 20-28",
+			"bands": [
+				"20",
+				"28"
+			]
+		},
+		{
+			"id": 410,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-20-32",
+			"bands": [
+				"1",
+				"3",
+				"20",
+				"32"
+			]
+		},
+		{
+			"id": 451,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3-7-20-28-32",
+			"bands": [
+				"3",
+				"7",
+				"20",
+				"28",
+				"32"
+			]
+		},
+		{
+			"id": 456,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 1-3-7-20-28",
+			"bands": [
+				"1",
+				"3",
+				"7",
+				"20",
+				"28"
+			]
+		}
+	],
+	"5g": [
+		{
+			"id": 296,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 28",
+			"bands": [
+				"28"
+			]
+		},
+		{
+			"id": 298,
+			"provider": {
+				"name": "KPN",
+				"slug": "kpn",
+				"mcc": 204,
+				"mnc": 8,
+				"color": "#00FF00"
+			},
+			"description": "KPN: 1",
+			"bands": [
+				"1"
+			]
+		},
+		{
+			"id": 295,
+			"provider": {
+				"name": "T-Mobile",
+				"slug": "t-mobile",
+				"mcc": 204,
+				"mnc": 16,
+				"color": "#FF00FF"
+			},
+			"description": "T-Mobile: 28",
+			"bands": [
+				"28"
+			]
+		},
+		{
+			"id": 287,
+			"provider": {
+				"name": "Vodafone",
+				"slug": "vodafone",
+				"mcc": 204,
+				"mnc": 4,
+				"color": "#FF0000"
+			},
+			"description": "Vodafone: 3",
+			"bands": [
+				"3"
+			]
+		}
+	],
+	"gsm-r": [
+		{
+			"id": 19,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 20,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 21,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 22,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 23,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 24,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 25,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 26,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 27,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 28,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 29,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 30,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 31,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 32,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 33,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 34,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 35,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 36,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 37,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 38,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 39,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 40,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 41,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 42,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 43,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 44,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 45,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 46,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 47,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 48,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 49,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 50,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 51,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 52,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 53,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 54,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 55,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 56,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 57,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 58,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 59,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 60,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 61,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 63,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 64,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 65,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 66,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 67,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 68,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 70,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 71,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 73,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 74,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 75,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 76,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 77,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 79,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 80,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 81,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 82,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 83,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 84,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 85,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 86,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 87,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 88,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 89,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 90,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 91,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 92,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 93,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 94,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 95,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 96,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 97,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 98,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 99,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 100,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 102,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 103,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 104,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 105,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 106,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 107,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 108,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 109,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 110,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 111,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 112,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 114,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 115,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 116,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 117,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 118,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 119,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 120,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 121,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 122,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 123,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 124,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 125,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 126,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 127,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 128,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 129,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 130,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 131,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 132,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 133,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 135,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 136,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 137,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 139,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 140,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 141,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 142,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 143,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 144,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 145,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 146,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 147,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 148,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 149,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 150,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 151,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 152,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 153,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 154,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 155,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 156,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 157,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 158,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 159,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 160,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 161,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 162,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 164,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 165,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 166,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 167,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 169,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 170,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 172,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 175,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 176,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 177,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 178,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 408,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 436,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 437,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 438,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 444,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 445,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 448,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 455,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 457,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 459,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 460,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 461,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 475,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 477,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 478,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 483,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 489,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 490,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		},
+		{
+			"id": 491,
+			"provider": {
+				"name": "ProRail",
+				"slug": "prorail",
+				"mcc": 204,
+				"mnc": 21,
+				"color": "#B20A2F"
+			},
+			"description": "ProRail: 900",
+			"bands": [
+				"900"
+			]
+		}
+	],
+	"cdma": [
+		{
+			"id": 18,
+			"provider": {
+				"name": "Utility Connect",
+				"slug": "utilityconnect",
+				"mcc": 204,
+				"mnc": 66,
+				"color": "#00FFFF"
+			},
+			"description": "Utility Connect: 11-11",
+			"bands": [
+				"11",
+				"11"
+			]
+		},
+		{
+			"id": 239,
+			"provider": {
+				"name": "Utility Connect",
+				"slug": "utilityconnect",
+				"mcc": 204,
+				"mnc": 66,
+				"color": "#00FFFF"
+			},
+			"description": "Utility Connect: 11",
+			"bands": [
+				"11"
+			]
+		}
+	],
+	"cgc": [
+		{
+			"id": 17,
+			"provider": {
+				"name": "EAN",
+				"slug": "european-aviation-network",
+				"mcc": 901,
+				"mnc": 53,
+				"color": "#0000FF"
+			},
+			"description": "EAN: 65",
+			"bands": [
+				"65"
+			]
+		}
+	],
+	"fixed-wireless": [],
+}

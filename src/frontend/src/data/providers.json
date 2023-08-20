@@ -1,0 +1,193 @@
+{
+	"5g": [
+		{
+			"name": "KPN",
+			"slug": "kpn",
+			"mcc": 204,
+			"mnc": 8,
+			"color": "#00FF00"
+		},
+		{
+			"name": "T-Mobile",
+			"slug": "t-mobile",
+			"mcc": 204,
+			"mnc": 16,
+			"color": "#FF00FF"
+		},
+		{
+			"name": "Vodafone",
+			"slug": "vodafone",
+			"mcc": 204,
+			"mnc": 4,
+			"color": "#FF0000"
+		}
+	],
+	"4g": [
+		{
+			"name": "KPN",
+			"slug": "kpn",
+			"mcc": 204,
+			"mnc": 8,
+			"color": "#00FF00"
+		},
+		{
+			"name": "Tampnet",
+			"slug": "tampnet",
+			"mcc": 901,
+			"mnc": 71,
+			"color": "#5741D6"
+		},
+		{
+			"name": "Tele 2",
+			"slug": "tele2",
+			"mcc": 204,
+			"mnc": 2,
+			"color": "#777777"
+		},
+		{
+			"name": "T-Mobile",
+			"slug": "t-mobile",
+			"mcc": 204,
+			"mnc": 16,
+			"color": "#FF00FF"
+		},
+		{
+			"name": "Vodafone",
+			"slug": "vodafone",
+			"mcc": 204,
+			"mnc": 4,
+			"color": "#FF0000"
+		}
+	],
+	"3g": [
+		{
+			"name": "KPN",
+			"slug": "kpn",
+			"mcc": 204,
+			"mnc": 8,
+			"color": "#00FF00"
+		},
+		{
+			"name": "T-Mobile",
+			"slug": "t-mobile",
+			"mcc": 204,
+			"mnc": 16,
+			"color": "#FF00FF"
+		},
+		{
+			"name": "Vodafone",
+			"slug": "vodafone",
+			"mcc": 204,
+			"mnc": 4,
+			"color": "#FF0000"
+		}
+	],
+	"2g": [
+		{
+			"name": "KPN",
+			"slug": "kpn",
+			"mcc": 204,
+			"mnc": 8,
+			"color": "#00FF00"
+		},
+		{
+			"name": "Tampnet",
+			"slug": "tampnet",
+			"mcc": 901,
+			"mnc": 71,
+			"color": "#5741D6"
+		},
+		{
+			"name": "T-Mobile",
+			"slug": "t-mobile",
+			"mcc": 204,
+			"mnc": 16,
+			"color": "#FF00FF"
+		},
+		{
+			"name": "Unknown",
+			"slug": "unknown",
+			"mcc": 0,
+			"mnc": 0,
+			"color": "#FFFFFF"
+		},
+		{
+			"name": "Vodafone",
+			"slug": "vodafone",
+			"mcc": 204,
+			"mnc": 4,
+			"color": "#FF0000"
+		}
+	],
+	"gsm-r": [
+		{
+			"name": "ProRail",
+			"slug": "prorail",
+			"mcc": 204,
+			"mnc": 21,
+			"color": "#B20A2F"
+		}
+	],
+	"cdma": [
+		{
+			"name": "Utility Connect",
+			"slug": "utilityconnect",
+			"mcc": 204,
+			"mnc": 66,
+			"color": "#00FFFF"
+		}
+	],
+	"cgc": [
+		{
+			"name": "EAN",
+			"slug": "european-aviation-network",
+			"mcc": 901,
+			"mnc": 53,
+			"color": "#0000FF"
+		}
+	],
+	"fixed-wireless": [
+		{
+			"name": "KPN",
+			"slug": "kpn",
+			"mcc": 204,
+			"mnc": 8,
+			"color": "#00FF00"
+		},
+		{
+			"name": "ProRail",
+			"slug": "prorail",
+			"mcc": 204,
+			"mnc": 21,
+			"color": "#B20A2F"
+		},
+		{
+			"name": "Tele 2",
+			"slug": "tele2",
+			"mcc": 204,
+			"mnc": 2,
+			"color": "#777777"
+		},
+		{
+			"name": "T-Mobile",
+			"slug": "t-mobile",
+			"mcc": 204,
+			"mnc": 16,
+			"color": "#FF00FF"
+		},
+		{
+			"name": "Unknown",
+			"slug": "unknown",
+			"mcc": 0,
+			"mnc": 0,
+			"color": "#FFFFFF"
+		},
+		{
+			"name": "Vodafone",
+			"slug": "vodafone",
+			"mcc": 204,
+			"mnc": 4,
+			"color": "#FF0000"
+		}
+	]
+}
