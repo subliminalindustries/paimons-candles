@@ -7,7 +7,7 @@ import './LeafletMap.css'
 
 import antennas from './data/layer.json'
 
-const positionHome = [52.111880220364064, 5.087148892650096]
+let positionHome = [52.111880220364064, 5.087148892650096]
 
 const SetViewOnClick = ({ animateRef }) => {
   const map = useMapEvent('click', (e) => {
@@ -16,6 +16,13 @@ const SetViewOnClick = ({ animateRef }) => {
     })
   })
   return null
+}
+
+const SetLatLonOnClick = ({ mapRef }) => {
+  const map = useMapEvent('click', (e) => {
+    const event = new CustomEvent('mapClickedAt', {'detail': e.latlng});
+    document.dispatchEvent(event);
+  })
 }
 
 const FeatureFilter = (geoJsonFeature) => {
@@ -32,7 +39,6 @@ const PointToLayer = (geoJsonPoint, latlng) => {
 }
 
 const OnEachFeature = (feature, layer) => {
-  console.log(layer)
   const map = useMap()
   const bands = feature.properties.bands || []
   const angles = feature.properties.angles || []
@@ -65,6 +71,7 @@ const OnEachFeature = (feature, layer) => {
 
 export default function LeafletMap() {
   const animateRef = useRef(false)
+  const mapRef = useRef(false)
 
   return (
     <MapContainer className="map-container" center={positionHome} zoom={14} scrollWheelZoom={true}>
@@ -90,6 +97,7 @@ export default function LeafletMap() {
       </LayersControl>
 
       <SetViewOnClick animateRef={animateRef}/>
+      <SetLatLonOnClick mapRef={mapRef}/>
 
     </MapContainer>
   )

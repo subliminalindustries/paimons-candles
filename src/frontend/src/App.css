@@ -1,10 +1,3 @@
-.App-header {
-  font-size: x-large;
-  height: 50px;
-  margin: 15px 0 0 30px;
-  text-align: left;
-}
-
 .App {
   text-align: center;
   height: 100vh;
@@ -12,6 +5,30 @@
   color: white;
 }
 
+.App-header-container {
+  font-size: xx-large;
+  display: flex;
+  flex-direction: row;
+  margin: 15px 0 10px 0;
+}
+
+.App-header {
+  text-align: left;
+  opacity: 0.66;
+  text-decoration: underline overline #505050;
+}
+
+.App-header-icon {
+  background-image: url("../public/icon.png");
+  width: 25px;
+  height: 34px;
+  background-size: cover;
+  border-style: solid;
+  border-color: #505050;
+  float: left;
+  margin-left: 25px;
+  border-width: 2px;
+}
 .App-organisation {
   color: aquamarine;
 }
@@ -26,4 +43,19 @@
 
 .Layout {
   height: 100%;
+}
+
+.spacer {
+  width: 130px;
+}
+
+.latlon-input {
+  color: #a8a8a8;
+  float: right;
+}
+
+.latlon-input-text {
+  height: 20px;
+  margin-bottom:5px;
+  background-color: #a8a8a8
 }
